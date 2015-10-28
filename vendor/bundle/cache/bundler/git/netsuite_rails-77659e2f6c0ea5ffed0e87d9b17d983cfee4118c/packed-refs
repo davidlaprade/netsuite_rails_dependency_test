@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+d52e20f4fe9ea1d9e5c9a70c8dd314872e5c0a8e refs/heads/datetime-bug
+e9efebee5d701d0d55aff336f70358c5e0764ff2 refs/heads/master
+9945e288491a55ab3edd456eabae5cd9e5b5f5bc refs/tags/0.2.0
+4370356a67d9d29f0c25f6eee149b8edea807868 refs/tags/0.2.1
