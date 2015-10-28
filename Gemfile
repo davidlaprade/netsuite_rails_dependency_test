@@ -45,5 +45,5 @@ group :development do
   gem 'spring'
 end
 
-gem 'netsuite', github: 'NetSweet/netsuite', branch: 'master', ref: '29bf8c8176a832bdf5c62a8c0d31691d7e3a49ab'
-gem 'netsuite_rails', github: 'NetSweet/netsuite_rails', branch: 'master', ref: 'e9efebee5d701d0d55aff336f70358c5e0764ff2'
+gem 'netsuite', github: 'NetSweet/netsuite', branch: 'master', ref: 'cb94bbf'
+gem 'netsuite_rails', github: 'NetSweet/netsuite_rails', branch: 'master', ref: 'e9efebe'
